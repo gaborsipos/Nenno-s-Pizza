@@ -1,0 +1,13 @@
+//
+//  Common.xcconfig
+//  NennosPizza
+//
+//  Created by Gabor Sipos on 2021. 12. 07..
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BUNDLE_DISPLAY_NAME = Nanno's Pizza
+VERSION_NUMBER = 1.0.0
+BUILD_VERSION = 1
